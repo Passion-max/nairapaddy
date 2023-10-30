@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012007341392",
+    "project_id": "nairapaddy-7ee40",
+    "storage_bucket": "nairapaddy-7ee40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012007341392:android:6011cc111514b8f8b37055",
+        "android_client_info": {
+          "package_name": "com.mycompany.nairapaddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxratkYOnnP-ysy6kzxLMNnFYmXGH7J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
