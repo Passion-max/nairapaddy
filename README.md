@@ -1,5 +1,6 @@
 
-# NairaPaddy - AI Power Finance Manager with Customer Support
+# NairaPaddy - AI Power Finance Manager
+
 
 The goal of the project is to use AI LLM to build a personal finance manager that can handle customer queries, resolve disputes, demystify, classify, and understand customer transactions. This will, in turn, generate insights into customer behavior and possible products of interest while leveraging modern technologies like Flutterflow (NoCode Development tool), ChatGPT OpenAI API, Cloud Functions, and Firebase.
 
