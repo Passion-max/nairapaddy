@@ -55,7 +55,8 @@ The goal of the project is to use AI LLM to build a personal finance manager tha
 - Database: firestore
 
   ## UI
-  ![App UI](https://github.com/Passion-max/nairapaddy/blob/main/protype%202.png)
+  ![App UI1](https://github.com/Passion-max/nairapaddy/blob/main/protype%202%20(2).png)
+  ![App UI2](https://github.com/Passion-max/nairapaddy/blob/main/protype%202.png)
 
 ## Prompt Used In Training the OpenAI Agent:
 ### Customer Service Query Classification
